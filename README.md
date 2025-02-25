@@ -1,1 +1,1 @@
-Isso é uma simples tela de login utilizando apenas elementos html e css.
+Esta é uma tela de login simples, construída apenas com HTML e CSS. No futuro, pretendo aprimorá-la e expandir para um website completo, com tela de login, página principal e outras funcionalidades, conforme surgirem novas ideias.
